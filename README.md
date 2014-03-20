@@ -1,4 +1,1 @@
-visionary-jewelry
-=================
-
-eCommerce website created by Twitter Bootstrap 
+# This is my README
